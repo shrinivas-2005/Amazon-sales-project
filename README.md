@@ -1,17 +1,35 @@
-<<<<<<< HEAD
-"#  Amazon sales project"
-=======
-# Amazon Sales Project
+# Python and Excel Bootcamp
 
-This project analyzes Amazon sales data using Python.
+This repository contains all materials, slides, notes, and practice files from the Python and Excel Bootcamp.
 
-## Features
-- Data cleaning
-- Sales analysis
-- Visualization
+## Contents
+- Bootcamp slides (PDF / PPT)
+- Python practice programs
+- Excel worksheets
+- Assignments and exercises
+- Project files
 
-## Technologies Used
-- Python
-- Pandas
-- Matplotlib
->>>>>>> 350a5e3492c281c705103ca8da3f4442725b2d1d
+## Topics Covered
+
+### Python
+- Python Basics
+- Variables and Data Types
+- Loops and Conditions
+- Functions
+- Lists, Tuples, Dictionaries
+- File Handling
+- Libraries (NumPy, Pandas)
+
+### Excel
+- Basic Formulas
+- Functions (SUM, COUNT, IF, VLOOKUP)
+- Charts and Graphs
+- Pivot Tables
+- Data Cleaning
+- Dashboard Creation
+
+## Purpose
+This repository is created to store and organize all bootcamp learning resources for future reference.
+
+## Author
+Shrinivas
